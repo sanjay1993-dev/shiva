@@ -29,3 +29,4 @@ if __name__  ==  '__main__':
   aggregated_results.show()
 
   print("endofmain")
+  print("I am happy")
